@@ -12,6 +12,7 @@
 	<!-- CSS only -->
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
+
 </head>
 
 <body>
@@ -19,10 +20,10 @@
 	include('menu.php');
 	?>
 
-	<div class="main d-flex">
+	<div  class="main d-flex">
 
 		<div class="justify-content-center">
-			<div class="rightdiv1 ">
+			<div  class="rightdiv1 ">
 				<div class="rightdiv1a"><img src="IMAGES/c14.PNG" style="height:279px; width:279px; "></div>
 				<div class="rightdiv1b">
 					<center>

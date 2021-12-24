@@ -1,121 +1,96 @@
-<html>
-				<head>
-								<title></title>
-								<link rel="stylesheet" type="text/css" href="css/menu.css"/>
-								<link rel="stylesheet" type="text/css" href="css/beverages.css"/>
-								<link rel="stylesheet" type="text/css" href="css/hot coffee.css"/>
-								<link rel="stylesheet" type="text/css" href="css/cold coffee.css"/>
-							
-								<link rel="stylesheet" type="text/css" href="css/frappe.css"/>
-								<link rel="stylesheet" type="text/css" href="css/frosteals.css"/>
-								
-								
-								
-				</head>
-				
-  <body>
-				<?php
-				include ('menu.php');
-				?>
-				
-<div class="maindiv">
-	<div class="leftdiv">
-				
-				<center><a style="text-decoration:none;color:#000000;" href="hot coffee.php"><p  class="leftdiv1">Hot Coffee</p></a></center>
-				<center><a style="text-decoration:none;color:#000000;" href="cold coffee.php"><p  class="leftdiv1">Cold Coffee</p></a></center>
-				
-					<center><a style="text-decoration:none;color:#000000;" href="frappe.php"><p  class="leftdiv1">Frappe</p></a></center>
-				<center><a style="text-decoration:none;color:#000000;" href="frosteals.php"><p  class="leftdiv1">frosteals</p></a></center>
-								
-    </div>
-	<div class="rightdiv">
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b5.PNG" style="height:279px; width:279px; "></div>
-					<div class="rightdiv1b"><center><p>DEVIS OWN(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">250)</p></center></div>
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b6.PNG" style="height:279px; width:279px;"></div>
-					<div class="rightdiv1b"><center><p>ICED ESKIMO(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">200)</p></center></div>
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b7.PNG" style="height:279px; width:279px;"></div>
-					<div class="rightdiv1b"><center><p>KAPPI NIRVANA(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">300)</p></center></div>
-				
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b8.PNG" style="height:279px; width:279px;"></div>
-					<div class="rightdiv1b"><center><p>VEGAN SHAKE(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">130)</p></center></div>
-				</div>
-				
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b9.PNG" style="height:279px; width:279px; "></div>
-					<div class="rightdiv1b"><center><p>CRUNCHY VANILLA FRAPE(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">180)</p></center></div>
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b10.PNG" style="height:279px; width:279px;"></div>
-					<div class="rightdiv1b"><center><p>CRUNCHY FRAPPE(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">160)</p></center></div>
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b11.PNG" style="height:279px; width:279px;"></div>
-					<div class="rightdiv1b"><center><p>BLUSHBERRY FRAPPE(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">190)</p></center></div>
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b12.PNG" style="height:279px; width:279px;"></div>
-					<div class="rightdiv1b"><center><p>CHOCO FRAPPE(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">220)</p></center></div>
-				</div>
-				
-				
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b1.PNG" style="height:279px; width:279px; "></div>
-					<div class="rightdiv1b"><center><p> VANILLA CAPPUCCINO(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">110)</p></center></div>
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/B2.PNG" style="height:279px; width:279px;"></div>
-					<div class="rightdiv1b"><center><p>CAPPUCCINO(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">140)</p></center></div>
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/B3.PNG" style="height:279px; width:279px;"></div>
-					<div class="rightdiv1b"><center><p>CAFE  MOCHA(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">180)</p></center></div>
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/B4.PNG" style="height:279px; width:279px;"></div>
-					<div class="rightdiv1b"><center><p>MACCHIA TO(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">80)</p></center></div>
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b13.PNG" style="height:279px; width:279px; "></div>
-					<div class="rightdiv1b"><center><p>PROMEGRANATE LEMON(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">130)</p></center></div>
-				</div>
-				
-				<div class="rightdiv1">
-					<div class="rightdiv1a"><img src="IMAGES/b14.PNG" style="height:279px; width:279px;"></div>
-					<div class="rightdiv1b"><center><p>CUCUMBER LEMON(&nbsp;<img src="IMAGES/download.png" style="height:11px; width:13px;">170)</p></center></div>
-				</div>
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Club Coffee</title>
+
+	<link rel="stylesheet" type="text/css" href="css/menu.css" />
+	<link rel="stylesheet" type="text/css" href="css/beverages.css" />
+	<link rel="stylesheet" type="text/css" href="css/hot coffee.css" />
+	<link rel="stylesheet" type="text/css" href="css/cold coffee.css" />
+
+	<link rel="stylesheet" type="text/css" href="css/frappe.css" />
+	<link rel="stylesheet" type="text/css" href="css/frosteals.css" />
+
+	<!-- CSS only -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+</head>
+
+<body>
+	<?php
+	include('menu.php');
+	?>
+		<div class="card-header bg-transparent border-success mt-2"style="font-size:40px;">Beverage Items</div>
+
+	<div class="container d-flex ml-4 mt-2 justify-content-center">
+		<div class="card P-3 " style="width: 18rem;">
+			<img style=" height: 18rem;" src="https://www.cointreau.com/int/en/sites/int/files/styles/header_image_mobile/public/cocktail-images/mi/Cointreau-cocktail-devils-own-cocktail_0.jpg?h=6b9bf2e9&itok=T5BDD7QV" class="card-img-top" alt="...">
+			<div class="card-body">
+				<p class="card-text">DEVIS OWN -200 Taka</p>
+			</div>
+		</div>
+		<div class="card P-3 " style="width: 18rem;">
+			<img style=" height: 18rem;" src=http://cupcoffee.weebly.com/uploads/3/8/0/4/38042109/s353786096225517088_p2_i1_w407.png class="card-img-top" alt="...">
+			<div class="card-body">
+				<p class="card-text">ICED ESKIMO -250 Taka</p>
+			</div>
+		</div>
+		<div class="card P-3 " style="width: 18rem;">
+			<img style=" height: 18rem;" src="IMAGES/b7.PNG" class="card-img-top" alt="...">
+			<div class="card-body">
+				<p class="card-text">KAPPI NIRVANA -220 Taka</p>
+			</div>
+		</div>
+		<div class="card P-3 " style="width: 18rem;">
+			<img style=" height: 18rem;" src="https://www.cafecoffeeday.com/sites/default/files/Vegan-Shake_0.jpg" class="card-img-top" alt="...">
+			<div class="card-body">
+				<p class="card-text">VEGAN SHAKE -230 Taka</p>
+			</div>
+		</div>
+
 	</div>
-</div>
-				
-							
+	<div class="container d-flex ml-4 mt-4 justify-content-center">
+		<div class="card" style="width: 18rem;">
+			<img style=" height: 18rem;" src="./IMAGES/b9.PNG" class="card-img-top" alt="...">
+			<div class="card-body">
+				<p class="card-text">CRUNCHY VANILLA FRAPE -150 Taka</p>
+			</div>
+		</div>
+		<div class="card P-3 " style="width: 18rem;">
+			<img style=" height: 18rem;" src="./IMAGES/b10.PNG" class="card-img-top" alt="...">
+			<div class="card-body">
+				<p class="card-text">CRUNCHY FRAPPE -220 Taka</p>
+			</div>
+		</div>
+		<div class="card P-3 " style="width: 18rem;">
+			<img style=" height: 18rem;" src="./IMAGES/b11.PNG" class="card-img-top" alt="...">
+			<div class="card-body">
+				<p class="card-text">BLUSHBERRY FRAPPE -230 Taka</p>
+			</div>
+		</div>
+		<div class="card P-3 " style="width: 18rem;">
+			<img style=" height: 18rem;" src="./IMAGES/b12.PNG" class="card-img-top" alt="...">
+			<div class="card-body">
+				<p class="card-text">CHOCO FRAPPE -250 Taka</p>
+			</div>
+		</div>
+
+	</div>
+
+
+	<div class="bottom">
+		<center>
+			<p style="padding:30px;">Club Coffee</p>
+		</center>
+
+	</div>
+ <!-- JavaScript Bundle with Popper -->
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
 </body>
-</html>			
+
+</html>
